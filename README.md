@@ -1,2 +1,2 @@
 # Tutorials
-SoftUni workshop to Bac-End course
+SoftUni workshop to Back-End course
